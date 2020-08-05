@@ -1,6 +1,6 @@
 ### Hi everyone ✌️ 
 
-#### I'm Junior Software Developer at <a href="https://www.venturus.org.br/">@Venturus</a> working with Android Development. However, I also worked for two years with web development with the stack: PHP, JS, PostgreSql. 
+#### I'm Junior Software Developer at <a href="https://www.venturus.org.br/">@Venturus</a> working with Android Development. However, I also worked for two years as web developer with the stack: PHP, JS, PostgreSql. 
 #### I also study in my free time nodejs and hybrid development for android.
 
 [![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=neriGabriel&count_private=true&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=neriGabriel&count_private=true&show_icons=true&theme=dracula)
