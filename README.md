@@ -8,4 +8,3 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neriGabriel&count_private=true&hide=Jupyter%20Notebook&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=neriGabriel&hide=Jupyter%20Notebook&layout=compact)
 
 <a href="https://www.linkedin.com/in/nerigabriel"><img src="https://img.shields.io/badge/-nerigabriel-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=hhttps://www.linkedin.com/in/nerigabriel" style="max-width:100%;"></a>
-<a href="https://nerigabriel.github.io/">My website!</a>
